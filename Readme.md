@@ -1,0 +1,1 @@
+基于YooAsset2.1.1。提供AndroidGroup等4种特定平台Group。提供AddressByFileNameAndExt（基于文件名、类类型、扩展名生成AddressableKey）
